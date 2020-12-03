@@ -1,0 +1,16 @@
+{
+  "name": "resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon resize.js C:\\Users\\bruno\\OneDrive\\Imagens\\background\\logo.jpg"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "sharp": "^0.26.3"
+  }
+}
